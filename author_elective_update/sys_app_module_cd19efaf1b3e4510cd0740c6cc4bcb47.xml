@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="NeedIt">0242fb8d0fa83200cd674f8ce1050e79</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>DIRECT</link_type>
+        <map_page/>
+        <mobile_title>プロパティ</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>900</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query>system_properties_ui.do?sysparm_title = NeedIt Application Properties&amp;sysparm_category=NeedIt Properties</query>
+        <report/>
+        <roles>x_58872_needit.admin</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-18 02:38:23</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>cd19efaf1b3e4510cd0740c6cc4bcb47</sys_id>
+        <sys_mod_count>13</sys_mod_count>
+        <sys_name>Propaties</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_app_module_cd19efaf1b3e4510cd0740c6cc4bcb47</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-18 04:56:02</sys_updated_on>
+        <timeline_page/>
+        <title>Propaties</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>8b196743dbba3304387021c4059619ab</instance_id>
+        <instance_name>dev89259</instance_name>
+        <name>sys_app_module_cd19efaf1b3e4510cd0740c6cc4bcb47</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="NeedIt">0242fb8d0fa83200cd674f8ce1050e79</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>DIRECT</link_type><map_page/><mobile_title>プロパティ</mobile_title><mobile_view_name>Mobile</mobile_view_name><name/><order>900</order><override_menu_roles>false</override_menu_roles><query>system_properties_ui.do?sysparm_title = NeedIt Application Properties&amp;sysparm_category=NeedIt Properties</query><report/><roles>x_58872_needit.admin</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-18 02:38:23</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>cd19efaf1b3e4510cd0740c6cc4bcb47</sys_id><sys_mod_count>13</sys_mod_count><sys_name>Propaties</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_app_module_cd19efaf1b3e4510cd0740c6cc4bcb47</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-18 04:56:02</sys_updated_on><timeline_page/><title>Propaties</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>550408532</payload_hash>
+        <record_name>Propaties</record_name>
+        <reverted_from/>
+        <source>02e0849b1b62c510cd0740c6cc4bcb6f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-18 04:56:02</sys_created_on>
+        <sys_id>87d9083f1bbe4510cd0740c6cc4bcb21</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1803b0718a10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-18 04:56:02</sys_updated_on>
+        <type>モジュール</type>
+        <update_guid>8fd9083f31be45104cd8c52e38481520</update_guid>
+        <update_guid_history>8fd9083f31be45104cd8c52e38481520:550408532,8779c8fb85be4510f69585a3fca38576:-524887608,3549043f75be45105ab8b4a0ca133307:550408532,94d888fb19be45103f1a4beb649d2647:656062381,5a28c0fbf0be4510e2c97db7bd57d99d:550408532,b4f5883bbd7e4510c5e3087319a54f05:656062381,ae7faf275f7e451031b1dba102275732:550408532,03fc2f63db7e4510d966d55b2f285113:-454375715,41ccef63897e451081ea496cb8a38fa7:1500629282,47fb6f23797e451084723daf5f618767:276566768,2cbbaf23957e4510ccf2e4b24603628b:1660497100,e35a2723837e45104688e12558cf7406:-521322514</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Properties">6f5a483f1bbe4510cd0740c6cc4bcb0e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-18 04:58:15</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>002625944f2849a7a05b1fc411657a61</sys_id>
+        <sys_metadata>cd19efaf1b3e4510cd0740c6cc4bcb47</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Propaties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_app_module_cd19efaf1b3e4510cd0740c6cc4bcb47</sys_update_name>
+        <sys_update_version display_value="sys_app_module_cd19efaf1b3e4510cd0740c6cc4bcb47">87d9083f1bbe4510cd0740c6cc4bcb21</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-18 04:58:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
